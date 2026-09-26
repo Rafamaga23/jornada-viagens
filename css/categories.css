@@ -16,10 +16,6 @@
   box-sizing: border-box;
   color: var(--text-primery-color);
 }
-.categories-cards h3 {
-  font-size: 28px;
-  font-weight: var(--title-weigth);
-}
 .categories-cards .card.single-line {
   padding-inline: 50px;
 }
