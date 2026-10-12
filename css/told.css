@@ -35,7 +35,7 @@
   width: 100%;
 }
 .contato.bottom-hero .hero-img {
-  background: url(..img/contato/footer-mobile.png) no-repeat;
+  background: url(../img/contato/footer-mobile.png) no-repeat;
   background-size: cover;
 }
 @media screen and (min-width: 768px) {
@@ -50,7 +50,8 @@
     justify-content: center;
   }
   .contato.bottom-hero .hero-img {
-    background: url(..img/contato/footer-tablet.png) no-repeat;
+    height: 600px;
+    background: url(../img/contato/footer-tablet.png) no-repeat;
     background-size: cover;
   }
 }
@@ -61,7 +62,7 @@
 }
 @media screen and (min-width: 1440px) {
   .contato.bottom-hero .hero-img {
-    background: url(..img/contato/footer-desktop.png) no-repeat;
+    background: url(../img/contato/footer-desktop.png) no-repeat;
     background-size: cover;
   }
 }
